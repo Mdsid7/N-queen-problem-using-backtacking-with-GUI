@@ -4,4 +4,11 @@ N-Queens problem refers to the problem in which one has to place N-Queens on an 
 *Backtracking is a prime algorithmic technique that uses depth first search to explore the solution space which is most naturally formulated in terms of recursive programs.  The backtracking algorithm, in general, checks all possible configurations and tests whether the required result is obtained or not.*
 
 # Flow Chart
-![Flow Chart](image/Flow_chart.png)
+![Flow Chart] (Image/Flow_chart.png)
+
+if you select yes,then the output shows the brief demonstration(or visualization) of queens getting placed step by step using backtracking algorithm, such that no queen is attacking each other.
+and if you select no, then one solution is obtained for n queen problem, without any delay and if you press ente,next solution is obtained and so on.
+
+# Result
+![Screenshot1] (Image/Screenshot1.png)
+![Screenshot2] (Image/Screenshot2.png)
