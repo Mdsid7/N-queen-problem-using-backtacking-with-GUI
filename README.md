@@ -5,7 +5,7 @@ N-Queens problem refers to the problem in which one has to place N-Queens on an 
 
 # Flow Chart
 ! [Flow Chart] 
-(https://github.com/Mdsid7/N-queen-problem-using-backtacking-with-GUI/blob/master/Images/Flow_chart.png)
+(/Images/Flow_chart.png)
 
 if you select yes,then the output shows the brief demonstration(or visualization) of queens getting placed step by step using backtracking algorithm, such that no queen is attacking each other.
 
@@ -13,6 +13,6 @@ and if you select no, then one solution is obtained for n queen problem, without
 
 # Result
 ! [Screenshot1] 
-(Image/Screenshot1.png)
+(/Images/Screenshot1.png)
 ! [Screenshot2] 
-(Image/Screenshot2.png)
+(/Images/Screenshot2.png)
